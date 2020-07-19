@@ -54,6 +54,36 @@
         "name": "BT"
     },
     {
+        "name": "Chase"
+    },
+    {
+        "name": "China Construction Bank"
+    },
+    {
+        "name": "China Life"
+    },
+    {
+        "name": "China Mobile"
+    },
+    {
+        "name": "Cisco"
+    },
+    {
+        "name": "Citi"
+    },
+    {
+        "name": "Coca-Cola"
+    },
+    {
+        "name": "Colgate"
+    },
+    {
+        "name": "Commonwealth Bank of Australia"
+    },
+    {
+        "name": "Costco"
+    },
+    {
         "name": "Budweiser"
     },
     {
@@ -84,9 +114,6 @@
         "name": "Marlboro"
     },
     {
-        "name": "Coca-Cola"
-    },
-    {
         "name": "Mastercard"
     },
     {
@@ -103,9 +130,6 @@
     },
     {
         "name": "The Home Depot"
-    },
-    {
-        "name": "China Mobile"
     },
     {
         "name": "ICBC"
@@ -174,9 +198,6 @@
         "name": "Huawei"
     },
     {
-        "name": "China Construction Bank"
-    },
-    {
         "name": "HSBC"
     },
     {
@@ -196,12 +217,6 @@
     },
     {
         "name": "FedEx"
-    },
-    {
-        "name": "Cisco"
-    },
-    {
-        "name": "Citi"
     },
     {
         "name": "JD.com"
@@ -228,19 +243,7 @@
         "name": "TD"
     },
     {
-        "name": "Chase"
-    },
-    {
-        "name": "Commonwealth Bank of Australia"
-    },
-    {
         "name": "Subway"
-    },
-    {
-        "name": "Colgate"
-    },
-    {
-        "name": "Costco"
     },
     {
         "name": "J.P. Morgan"
@@ -253,9 +256,6 @@
     },
     {
         "name": "Salesforce"
-    },
-    {
-        "name": "China Life"
     },
     {
         "name": "US Bank"
