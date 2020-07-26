@@ -1,0 +1,1271 @@
+[
+    {
+        "name": "Abelha"
+    },
+    {
+        "name": "Abutre"
+    },
+    {
+        "name": "Ácaro"
+    },
+    {
+        "name": "Águia"
+    },
+    {
+        "name": "Albatroz"
+    },
+    {
+        "name": "Alce"
+    },
+    {
+        "name": "Alpaca"
+    },
+    {
+        "name": "Anaconda"
+    },
+    {
+        "name": "Anchova"
+    },
+    {
+        "name": "Andorinha"
+    },
+    {
+        "name": "Anta"
+    },
+    {
+        "name": "Antílope"
+    },
+    {
+        "name": "Aranha"
+    },
+    {
+        "name": "Arara"
+    },
+    {
+        "name": "Asno"
+    },
+    {
+        "name": "Atum"
+    },
+    {
+        "name": "Avestruz"
+    },
+    {
+        "name": "Babuíno"
+    },
+    {
+        "name": "Bacalhau"
+    },
+    {
+        "name": "Bacuri"
+    },
+    {
+        "name": "Badejo"
+    },
+    {
+        "name": "Bagre"
+    },
+    {
+        "name": "Baiacu"
+    },
+    {
+        "name": "Baleia"
+    },
+    {
+        "name": "Barata"
+    },
+    {
+        "name": "Barbo"
+    },
+    {
+        "name": "Barracuda"
+    },
+    {
+        "name": "Beija-flor"
+    },
+    {
+        "name": "Besouro"
+    },
+    {
+        "name": "Bem-te-vi"
+    },
+    {
+        "name": "Bezerro"
+    },
+    {
+        "name": "Bicho-da-seda"
+    },
+    {
+        "name": "Bisonte"
+    },
+    {
+        "name": "Boa"
+    },
+    {
+        "name": "Bode"
+    },
+    {
+        "name": "Boi"
+    },
+    {
+        "name": "Borboleta"
+    },
+    {
+        "name": "Boto"
+    },
+    {
+        "name": "Búfalo"
+    },
+    {
+        "name": "Burro"
+    },
+    {
+        "name": "Cabra"
+    },
+    {
+        "name": "Cachalote"
+    },
+    {
+        "name": "Cachorro"
+    },
+    {
+        "name": "Cágado"
+    },
+    {
+        "name": "Camaleão"
+    },
+    {
+        "name": "Camarão"
+    },
+    {
+        "name": "Camelo"
+    },
+    {
+        "name": "Camundongo"
+    },
+    {
+        "name": "Canário"
+    },
+    {
+        "name": "Canguru"
+    },
+    {
+        "name": "Capivara"
+    },
+    {
+        "name": "Caracol"
+    },
+    {
+        "name": "Caranguejo"
+    },
+    {
+        "name": "Carneiro"
+    },
+    {
+        "name": "Carrapato"
+    },
+    {
+        "name": "Cascavel"
+    },
+    {
+        "name": "Castor"
+    },
+    {
+        "name": "Cavalo"
+    },
+    {
+        "name": "Cavalo-marinho"
+    },
+    {
+        "name": "Cegonha"
+    },
+    {
+        "name": "Centopeia"
+    },
+    {
+        "name": "Chimpanzé"
+    },
+    {
+        "name": "Chinchila"
+    },
+    {
+        "name": "Chita"
+    },
+    {
+        "name": "Cigarra"
+    },
+    {
+        "name": "Cisne"
+    },
+    {
+        "name": "Coala"
+    },
+    {
+        "name": "Cobra"
+    },
+    {
+        "name": "Codorna"
+    },
+    {
+        "name": "Coelho"
+    },
+    {
+        "name": "Coiote"
+    },
+    {
+        "name": "Coruja"
+    },
+    {
+        "name": "Corvo"
+    },
+    {
+        "name": "Crocodilo"
+    },
+    {
+        "name": "Cupim"
+    },
+    {
+        "name": "Cutia"
+    },
+    {
+        "name": "Damão"
+    },
+    {
+        "name": "Dançador"
+    },
+    {
+        "name": "Degolado"
+    },
+    {
+        "name": "Degu"
+    },
+    {
+        "name": "Diablotim"
+    },
+    {
+        "name": "Diabo-da-tasmânia"
+    },
+    {
+        "name": "Diamante-de-gould"
+    },
+    {
+        "name": "Dingo"
+    },
+    {
+        "name": "Dinossauro"
+    },
+    {
+        "name": "Dodô"
+    },
+    {
+        "name": "Doninha"
+    },
+    {
+        "name": "Dourado"
+    },
+    {
+        "name": "Dragão-de-komodo"
+    },
+    {
+        "name": "Dragão-do-banhado"
+    },
+    {
+        "name": "Dragão-voador"
+    },
+    {
+        "name": "Dromedário"
+    },
+    {
+        "name": "Dugongo"
+    },
+    {
+        "name": "égua"
+    },
+    {
+        "name": "Elefante"
+    },
+    {
+        "name": "Elefante-marinho"
+    },
+    {
+        "name": "Ema"
+    },
+    {
+        "name": "Enchova"
+    },
+    {
+        "name": "Enferrujado"
+    },
+    {
+        "name": "Enguia"
+    },
+    {
+        "name": "Enho"
+    },
+    {
+        "name": "Escaravelho"
+    },
+    {
+        "name": "Escorpião"
+    },
+    {
+        "name": "Escrevedeira"
+    },
+    {
+        "name": "Esmerilhão"
+    },
+    {
+        "name": "Espadarte"
+    },
+    {
+        "name": "Esponja"
+    },
+    {
+        "name": "Esquilo"
+    },
+    {
+        "name": "Estorninho"
+    },
+    {
+        "name": "Estrela-do-mar"
+    },
+    {
+        "name": "Esturjão"
+    },
+    {
+        "name": "Faisão"
+    },
+    {
+        "name": "Falcão"
+    },
+    {
+        "name": "Ferreirinho"
+    },
+    {
+        "name": "Flamingo"
+    },
+    {
+        "name": "Flautim"
+    },
+    {
+        "name": "Foca"
+    },
+    {
+        "name": "Formiga"
+    },
+    {
+        "name": "Fossa"
+    },
+    {
+        "name": "Fraca-da-guiné"
+    },
+    {
+        "name": "Frango-d\"água"
+    },
+    {
+        "name": "Freirinha"
+    },
+    {
+        "name": "Fuinha"
+    },
+    {
+        "name": "Furão"
+    },
+    {
+        "name": "Gafanhoto"
+    },
+    {
+        "name": "Gaivota"
+    },
+    {
+        "name": "Galinha"
+    },
+    {
+        "name": "Galo"
+    },
+    {
+        "name": "Gambá"
+    },
+    {
+        "name": "Gamo"
+    },
+    {
+        "name": "Ganso"
+    },
+    {
+        "name": "Garça"
+    },
+    {
+        "name": "Garoupa"
+    },
+    {
+        "name": "Gato"
+    },
+    {
+        "name": "Gavião"
+    },
+    {
+        "name": "Gazela"
+    },
+    {
+        "name": "Geco"
+    },
+    {
+        "name": "Gerbo"
+    },
+    {
+        "name": "Gibão"
+    },
+    {
+        "name": "Girafa"
+    },
+    {
+        "name": "Girino"
+    },
+    {
+        "name": "Gnu"
+    },
+    {
+        "name": "Golfinho"
+    },
+    {
+        "name": "Gorila"
+    },
+    {
+        "name": "Gralha"
+    },
+    {
+        "name": "Grifo"
+    },
+    {
+        "name": "Grilo"
+    },
+    {
+        "name": "Grou"
+    },
+    {
+        "name": "Guará"
+    },
+    {
+        "name": "Guaxinim"
+    },
+    {
+        "name": "Hadoque"
+    },
+    {
+        "name": "Hamster"
+    },
+    {
+        "name": "Harpia"
+    },
+    {
+        "name": "Hiena"
+    },
+    {
+        "name": "Hipopótamo"
+    },
+    {
+        "name": "Hírax"
+    },
+    {
+        "name": "Iaque"
+    },
+    {
+        "name": "íbex"
+    },
+    {
+        "name": "íbis"
+    },
+    {
+        "name": "Iguana"
+    },
+    {
+        "name": "Iguanara"
+    },
+    {
+        "name": "Impala"
+    },
+    {
+        "name": "Indicador"
+    },
+    {
+        "name": "Indri"
+    },
+    {
+        "name": "Inhacoso"
+    },
+    {
+        "name": "Inhala"
+    },
+    {
+        "name": "Inhambu"
+    },
+    {
+        "name": "Irapuã"
+    },
+    {
+        "name": "Irara"
+    },
+    {
+        "name": "Iratim"
+    },
+    {
+        "name": "Itapema"
+    },
+    {
+        "name": "Jabiru"
+    },
+    {
+        "name": "Jabuti"
+    },
+    {
+        "name": "Jaçanã"
+    },
+    {
+        "name": "Jacaré"
+    },
+    {
+        "name": "Jacu"
+    },
+    {
+        "name": "Jacupará"
+    },
+    {
+        "name": "Jaguar"
+    },
+    {
+        "name": "Jamanta"
+    },
+    {
+        "name": "Jararaca"
+    },
+    {
+        "name": "Javali"
+    },
+    {
+        "name": "Jegue"
+    },
+    {
+        "name": "Jiboia"
+    },
+    {
+        "name": "Joaninha"
+    },
+    {
+        "name": "João-de-barro"
+    },
+    {
+        "name": "Jumento"
+    },
+    {
+        "name": "Kakapo"
+    },
+    {
+        "name": "Kea"
+    },
+    {
+        "name": "Kinguio"
+    },
+    {
+        "name": "Kiwi"
+    },
+    {
+        "name": "Koala"
+    },
+    {
+        "name": "Kookaburra"
+    },
+    {
+        "name": "Kowari"
+    },
+    {
+        "name": "Krill"
+    },
+    {
+        "name": "Kudu"
+    },
+    {
+        "name": "Lacraia"
+    },
+    {
+        "name": "Lagarta"
+    },
+    {
+        "name": "Lagartixa"
+    },
+    {
+        "name": "Lagarto"
+    },
+    {
+        "name": "Lagosta"
+    },
+    {
+        "name": "Lampreia"
+    },
+    {
+        "name": "Lavadeira"
+    },
+    {
+        "name": "Lavagante"
+    },
+    {
+        "name": "Leão"
+    },
+    {
+        "name": "Leão-marinho"
+    },
+    {
+        "name": "Lebre"
+    },
+    {
+        "name": "Lêmure"
+    },
+    {
+        "name": "Leopardo"
+    },
+    {
+        "name": "Lesma"
+    },
+    {
+        "name": "Lhama"
+    },
+    {
+        "name": "Libélula"
+    },
+    {
+        "name": "Lince"
+    },
+    {
+        "name": "Linguado"
+    },
+    {
+        "name": "Lobo"
+    },
+    {
+        "name": "Lombriga"
+    },
+    {
+        "name": "Lontra"
+    },
+    {
+        "name": "Lula"
+    },
+    {
+        "name": "Macaco"
+    },
+    {
+        "name": "Mamute"
+    },
+    {
+        "name": "Manatim"
+    },
+    {
+        "name": "Mandril"
+    },
+    {
+        "name": "Mangangá"
+    },
+    {
+        "name": "Maracanã"
+    },
+    {
+        "name": "Marimbondo"
+    },
+    {
+        "name": "Mariposa"
+    },
+    {
+        "name": "Marisco"
+    },
+    {
+        "name": "Marmota"
+    },
+    {
+        "name": "Marreco"
+    },
+    {
+        "name": "Marta"
+    },
+    {
+        "name": "Massarongo"
+    },
+    {
+        "name": "Medusa"
+    },
+    {
+        "name": "Melro"
+    },
+    {
+        "name": "Mergulhão"
+    },
+    {
+        "name": "Merluza"
+    },
+    {
+        "name": "Mexilhão"
+    },
+    {
+        "name": "Mico"
+    },
+    {
+        "name": "Milhafre"
+    },
+    {
+        "name": "Mineirinho"
+    },
+    {
+        "name": "Minhoca"
+    },
+    {
+        "name": "Mocho"
+    },
+    {
+        "name": "Mono"
+    },
+    {
+        "name": "Morcego"
+    },
+    {
+        "name": "Moreia"
+    },
+    {
+        "name": "Morsa"
+    },
+    {
+        "name": "Mosca"
+    },
+    {
+        "name": "Mosquito"
+    },
+    {
+        "name": "Muçurana"
+    },
+    {
+        "name": "Mula"
+    },
+    {
+        "name": "Musaranho"
+    },
+    {
+        "name": "Naja"
+    },
+    {
+        "name": "Nambu"
+    },
+    {
+        "name": "Nandaia"
+    },
+    {
+        "name": "Narceja"
+    },
+    {
+        "name": "Narval"
+    },
+    {
+        "name": "Náutilo"
+    },
+    {
+        "name": "Negrinho"
+    },
+    {
+        "name": "Neon"
+    },
+    {
+        "name": "Nhacundá"
+    },
+    {
+        "name": "Nhandiá"
+    },
+    {
+        "name": "Niala"
+    },
+    {
+        "name": "Niquim"
+    },
+    {
+        "name": "Noitibó"
+    },
+    {
+        "name": "Numbat"
+    },
+    {
+        "name": "Nútria"
+    },
+    {
+        "name": "Ocapi"
+    },
+    {
+        "name": "Olho-de-boi"
+    },
+    {
+        "name": "Onça"
+    },
+    {
+        "name": "Orangotango"
+    },
+    {
+        "name": "Orca"
+    },
+    {
+        "name": "órix"
+    },
+    {
+        "name": "Ornitorrinco"
+    },
+    {
+        "name": "Osga"
+    },
+    {
+        "name": "Ostra"
+    },
+    {
+        "name": "Otária"
+    },
+    {
+        "name": "Ouriço"
+    },
+    {
+        "name": "Ouriço-do-mar"
+    },
+    {
+        "name": "Ovelha"
+    },
+    {
+        "name": "Panda"
+    },
+    {
+        "name": "Pantera"
+    },
+    {
+        "name": "Papagaio"
+    },
+    {
+        "name": "Pardal"
+    },
+    {
+        "name": "Pássaro"
+    },
+    {
+        "name": "Pato"
+    },
+    {
+        "name": "Pavão"
+    },
+    {
+        "name": "Peixe"
+    },
+    {
+        "name": "Peixe-boi"
+    },
+    {
+        "name": "Pelicano"
+    },
+    {
+        "name": "Percevejo"
+    },
+    {
+        "name": "Perereca"
+    },
+    {
+        "name": "Periquito"
+    },
+    {
+        "name": "Pernilongo"
+    },
+    {
+        "name": "Peru"
+    },
+    {
+        "name": "Pescada"
+    },
+    {
+        "name": "Pica-pau"
+    },
+    {
+        "name": "Pinguim"
+    },
+    {
+        "name": "Piolho"
+    },
+    {
+        "name": "Piranha"
+    },
+    {
+        "name": "Pirarucu"
+    },
+    {
+        "name": "Polvo"
+    },
+    {
+        "name": "Pombo"
+    },
+    {
+        "name": "Pônei"
+    },
+    {
+        "name": "Porco"
+    },
+    {
+        "name": "Porco-Espinho"
+    },
+    {
+        "name": "Porquinho-da-Índia"
+    },
+    {
+        "name": "Preá"
+    },
+    {
+        "name": "Preguiça"
+    },
+    {
+        "name": "Pulga"
+    },
+    {
+        "name": "Quati"
+    },
+    {
+        "name": "Quatimirim"
+    },
+    {
+        "name": "Quatipuru"
+    },
+    {
+        "name": "Quebra-nozes"
+    },
+    {
+        "name": "Quebra-ossos"
+    },
+    {
+        "name": "Queixada"
+    },
+    {
+        "name": "Quem-te-Vestiu"
+    },
+    {
+        "name": "Quero-quero"
+    },
+    {
+        "name": "Quetzal"
+    },
+    {
+        "name": "Quiriquiri"
+    },
+    {
+        "name": "Rã"
+    },
+    {
+        "name": "Rabudinho"
+    },
+    {
+        "name": "Raia"
+    },
+    {
+        "name": "Raposa"
+    },
+    {
+        "name": "Ratazana"
+    },
+    {
+        "name": "Rato"
+    },
+    {
+        "name": "Rêmora"
+    },
+    {
+        "name": "Rena"
+    },
+    {
+        "name": "Rendeira"
+    },
+    {
+        "name": "Rinoceronte"
+    },
+    {
+        "name": "Robalo"
+    },
+    {
+        "name": "Rouxinol"
+    },
+    {
+        "name": "Sabiá"
+    },
+    {
+        "name": "Sagui"
+    },
+    {
+        "name": "Salamandra"
+    },
+    {
+        "name": "Salmão"
+    },
+    {
+        "name": "Sanguessuga"
+    },
+    {
+        "name": "Sapo"
+    },
+    {
+        "name": "Sardão"
+    },
+    {
+        "name": "Sardinha"
+    },
+    {
+        "name": "Saúva"
+    },
+    {
+        "name": "Seriema"
+    },
+    {
+        "name": "Serpente"
+    },
+    {
+        "name": "Siri"
+    },
+    {
+        "name": "Suçuarana"
+    },
+    {
+        "name": "Sucuri"
+    },
+    {
+        "name": "Suiriri"
+    },
+    {
+        "name": "Suricate"
+    },
+    {
+        "name": "Surubi"
+    },
+    {
+        "name": "Surucucu"
+    },
+    {
+        "name": "Tainha"
+    },
+    {
+        "name": "Tamanduá"
+    },
+    {
+        "name": "Tamboril"
+    },
+    {
+        "name": "Tapir"
+    },
+    {
+        "name": "Tarântula"
+    },
+    {
+        "name": "Tartaruga"
+    },
+    {
+        "name": "Tatu"
+    },
+    {
+        "name": "Tatuí"
+    },
+    {
+        "name": "Tentilhão"
+    },
+    {
+        "name": "Tetra"
+    },
+    {
+        "name": "Texugo"
+    },
+    {
+        "name": "Tico-tico"
+    },
+    {
+        "name": "Tigre"
+    },
+    {
+        "name": "Tilápia"
+    },
+    {
+        "name": "Tordo"
+    },
+    {
+        "name": "Tororó"
+    },
+    {
+        "name": "Toupeira"
+    },
+    {
+        "name": "Touro"
+    },
+    {
+        "name": "Tritão"
+    },
+    {
+        "name": "Truta"
+    },
+    {
+        "name": "Tubarão"
+    },
+    {
+        "name": "Tucano"
+    },
+    {
+        "name": "Tucuxi"
+    },
+    {
+        "name": "Uacari"
+    },
+    {
+        "name": "Unau"
+    },
+    {
+        "name": "Unha-Longa"
+    },
+    {
+        "name": "Unicórnio"
+    },
+    {
+        "name": "Ursopanda"
+    },
+    {
+        "name": "Urso"
+    },
+    {
+        "name": "Uru"
+    },
+    {
+        "name": "Urubu"
+    },
+    {
+        "name": "Urutaurana"
+    },
+    {
+        "name": "Urutu"
+    },
+    {
+        "name": "Vaca"
+    },
+    {
+        "name": "Vaca-Marinha"
+    },
+    {
+        "name": "Vaga-lume"
+    },
+    {
+        "name": "Veado"
+    },
+    {
+        "name": "Verdilhão"
+    },
+    {
+        "name": "Verdinho"
+    },
+    {
+        "name": "Vespa"
+    },
+    {
+        "name": "Víbora"
+    },
+    {
+        "name": "Vieira"
+    },
+    {
+        "name": "Vira-Bosta"
+    },
+    {
+        "name": "Vison"
+    },
+    {
+        "name": "Vitela"
+    },
+    {
+        "name": "Viúva"
+    },
+    {
+        "name": "Viúva-Negra"
+    },
+    {
+        "name": "Wallaby"
+    },
+    {
+        "name": "Weimaraner"
+    },
+    {
+        "name": "Wombat"
+    },
+    {
+        "name": "Xajá"
+    },
+    {
+        "name": "Xangó"
+    },
+    {
+        "name": "Xará"
+    },
+    {
+        "name": "Xarelete"
+    },
+    {
+        "name": "Xaréu"
+    },
+    {
+        "name": "Xaru"
+    },
+    {
+        "name": "Xauim"
+    },
+    {
+        "name": "Xero"
+    },
+    {
+        "name": "Xexéu"
+    },
+    {
+        "name": "Ximango"
+    },
+    {
+        "name": "Ximburé"
+    },
+    {
+        "name": "Xixarro"
+    },
+    {
+        "name": "Xofrango"
+    },
+    {
+        "name": "Xuri"
+    },
+    {
+        "name": "Yak"
+    },
+    {
+        "name": "Ynambu"
+    },
+    {
+        "name": "Yorkshire"
+    },
+    {
+        "name": "Zabelê"
+    },
+    {
+        "name": "Zangão"
+    },
+    {
+        "name": "Zaragateiro"
+    },
+    {
+        "name": "Zarro"
+    },
+    {
+        "name": "Zebra"
+    },
+    {
+        "name": "Zebu"
+    },
+    {
+        "name": "Zidedê"
+    },
+    {
+        "name": "Zombeteiro"
+    },
+    {
+        "name": "Zorrilho"
+    }
+]
