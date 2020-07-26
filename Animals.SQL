@@ -5,7 +5,7 @@ CREATE SEQUENCE "animals_id" INCREMENT 1 MINVALUE 1 MAXVALUE 9223372036854775807
 CREATE TABLE public.animals
 (
     id integer NOT NULL DEFAULT nextval('animals_id'::regclass),
-    name CHARACTER varying(255) COLLATE pg_catalog."default",
+    name CHARACTER varying(32) COLLATE pg_catalog."default",
     CONSTRAINT animals_pkey PRIMARY KEY (id)
 )
 WITH (
