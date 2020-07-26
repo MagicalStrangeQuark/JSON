@@ -54,6 +54,9 @@
         "name": "BT"
     },
     {
+        "name": "Budweiser"
+    },
+    {
         "name": "Chase"
     },
     {
@@ -84,31 +87,94 @@
         "name": "Costco"
     },
     {
-        "name": "Budweiser"
+        "name": "Deutsche Telekom"
     },
     {
-        "name": "Google"
+        "name": "DHL"
     },
     {
-        "name": "Microsoft"
+        "name": "Disney"
     },
     {
-        "name": "Tencent"
+        "name": "Ebay"
+    },
+    {
+        "name": "ExxonMobil"
     },
     {
         "name": "Facebook"
     },
     {
-        "name": "Visa"
+        "name": "FedEx"
     },
     {
-        "name": "McDonald's"
+        "name": "Ford"
+    },
+    {
+        "name": "GE"
+    },
+    {
+        "name": "Gillette"
+    },
+    {
+        "name": "Google"
+    },
+    {
+        "name": "Gucci"
+    },
+    {
+        "name": "HDFC Bank"
+    },
+    {
+        "name": "Hermès"
+    },
+    {
+        "name": "Honda"
+    },
+    {
+        "name": "HP"
+    },
+    {
+        "name": "HSBC"
+    },
+    {
+        "name": "Huawei"
     },
     {
         "name": "IBM"
     },
     {
-        "name": "Verizon"
+        "name": "ICBC"
+    },
+    {
+        "name": "IKEA"
+    },
+    {
+        "name": "Instagram"
+    },
+    {
+        "name": "Intel"
+    },
+    {
+        "name": "J.P. Morgan"
+    },
+    {
+        "name": "JD.com"
+    },
+    {
+        "name": "KFC"
+    },
+    {
+        "name": "L'Oréal Paris"
+    },
+    {
+        "name": "LinkedIn"
+    },
+    {
+        "name": "Louis Vuitton"
+    },
+    {
+        "name": "Lowe's"
     },
     {
         "name": "Marlboro"
@@ -117,186 +183,120 @@
         "name": "Mastercard"
     },
     {
-        "name": "UPS"
-    },
-    {
-        "name": "SAP"
-    },
-    {
-        "name": "Wells Fargo"
-    },
-    {
-        "name": "Disney"
-    },
-    {
-        "name": "The Home Depot"
-    },
-    {
-        "name": "ICBC"
-    },
-    {
-        "name": "Starbucks"
-    },
-    {
-        "name": "Xfinity"
-    },
-    {
-        "name": "Deutsche Telekom"
-    },
-    {
-        "name": "Louis Vuitton"
-    },
-    {
-        "name": "Spectrum"
-    },
-    {
-        "name": "GE"
-    },
-    {
-        "name": "Nike"
-    },
-    {
-        "name": "PayPal"
-    },
-    {
-        "name": "Walmart"
-    },
-    {
-        "name": "Samsung"
-    },
-    {
-        "name": "Moutai"
-    },
-    {
-        "name": "Toyota"
-    },
-    {
-        "name": "Vodafone"
-    },
-    {
-        "name": "Intel"
-    },
-    {
-        "name": "Hermès"
-    },
-    {
-        "name": "Zara"
-    },
-    {
-        "name": "Ping An"
-    },
-    {
-        "name": "L'Oréal Paris"
-    },
-    {
-        "name": "Oracle"
+        "name": "McDonald's"
     },
     {
         "name": "Mercedes-Benz"
     },
     {
-        "name": "Huawei"
+        "name": "Microsoft"
     },
     {
-        "name": "HSBC"
-    },
-    {
-        "name": "YouTube"
-    },
-    {
-        "name": "RBC"
+        "name": "Moutai"
     },
     {
         "name": "Movistar"
     },
     {
-        "name": "Gucci"
+        "name": "Netflix"
+    },
+    {
+        "name": "Nike"
     },
     {
         "name": "NTT"
     },
     {
-        "name": "FedEx"
-    },
-    {
-        "name": "JD.com"
-    },
-    {
-        "name": "HDFC Bank"
-    },
-    {
-        "name": "Netflix"
-    },
-    {
-        "name": "DHL"
-    },
-    {
-        "name": "Shell"
-    },
-    {
-        "name": "Pampers"
+        "name": "Oracle"
     },
     {
         "name": "Orange"
     },
     {
-        "name": "TD"
+        "name": "Pampers"
     },
     {
-        "name": "Subway"
+        "name": "PayPal"
     },
     {
-        "name": "J.P. Morgan"
+        "name": "Pepsi"
     },
     {
-        "name": "ExxonMobil"
+        "name": "Ping An"
     },
     {
-        "name": "IKEA"
+        "name": "RBC"
     },
     {
         "name": "Salesforce"
     },
     {
-        "name": "US Bank"
+        "name": "Samsung"
     },
     {
-        "name": "Uber"
-    },
-    {
-        "name": "Siemens"
-    },
-    {
-        "name": "LinkedIn"
-    },
-    {
-        "name": "Gillette"
-    },
-    {
-        "name": "KFC"
-    },
-    {
-        "name": "Ebay"
-    },
-    {
-        "name": "HP"
+        "name": "SAP"
     },
     {
         "name": "SF Express"
     },
     {
-        "name": "Instagram"
+        "name": "Shell"
     },
     {
-        "name": "Lowe's"
+        "name": "Siemens"
     },
     {
-        "name": "Ford"
+        "name": "Spectrum"
     },
     {
-        "name": "Honda"
+        "name": "Starbucks"
     },
     {
-        "name": "Pepsi"
+        "name": "Subway"
+    },
+    {
+        "name": "TD"
+    },
+    {
+        "name": "Tencent"
+    },
+    {
+        "name": "The Home Depot"
+    },
+    {
+        "name": "Toyota"
+    },
+    {
+        "name": "Uber"
+    },
+    {
+        "name": "UPS"
+    },
+    {
+        "name": "US Bank"
+    },
+    {
+        "name": "Verizon"
+    },
+    {
+        "name": "Visa"
+    },
+    {
+        "name": "Vodafone"
+    },
+    {
+        "name": "Walmart"
+    },
+    {
+        "name": "Wells Fargo"
+    },
+    {
+        "name": "Xfinity"
+    },
+    {
+        "name": "YouTube"
+    },
+    {
+        "name": "Zara"
     }
 ]
