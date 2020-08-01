@@ -20,4 +20,4 @@ Repository containing files in JSON format useful for the development of API's.
 
 <a href="https://github.com/MagicalStrangeQuark/JSON/blob/master/Animals.SQL">🐶 Animals</a>
 
-<a href="https://github.com/MagicalStrangeQuark/JSON/blob/master/Brazilian%20States's%20Table.SQL">🇧🇷 Brazilian States's</a>
+<a href="https://github.com/MagicalStrangeQuark/JSON/blob/master/Brazilian%20States's.SQL">🇧🇷 Brazilian States's</a>
