@@ -2,11 +2,11 @@
     "000000": {
         "cor": "Preto",
         "color": "Black",
-        "couleur": "",
-        "farbe": "",
-        "colore": "",
-        "kleur": "",
-        "tonalidad": ""
+        "couleur": "Noire",
+        "farbe": "Schwarz",
+        "colore": "Nero",
+        "kleur": "Zwart",
+        "tonalidad": "Negro"
     },
     "000080": {
         "cor": "Naval",
@@ -45,7 +45,7 @@
         "tonalidad": ""
     },
     "0000CD": {
-        "cor": "",
+        "cor": "Azul Médio",
         "color": "Medium Blue",
         "couleur": "",
         "farbe": "",
@@ -414,7 +414,7 @@
         "tonalidad": ""
     },
     "00827F": {
-        "cor": "",
+        "cor": "Verde-azulado",
         "color": "Teal Green",
         "couleur": "",
         "farbe": "",
@@ -441,7 +441,7 @@
         "tonalidad": ""
     },
     "008F39": {
-        "cor": "",
+        "cor": "Verde Puro",
         "color": "Pure green",
         "couleur": "Vert pur",
         "farbe": "Reingrün",
@@ -450,7 +450,7 @@
         "tonalidad": "Verde puro"
     },
     "009000": {
-        "cor": "",
+        "cor": "Verde Islâmico",
         "color": "Islamic Green",
         "couleur": "",
         "farbe": "",
@@ -540,13 +540,13 @@
         "tonalidad": ""
     },
     "00BB2D": {
-        "cor": "",
-        "color": "Luminous green",
-        "couleur": "Vert brillant",
+        "cor": "Verde Luminoso",
+        "color": "Luminous Green",
+        "couleur": "Vert Brillant",
         "farbe": "Leuchtgrün",
-        "colore": "Verde brillante",
+        "colore": "Verde Brillante",
         "kleur": "Briljantgroen",
-        "tonalidad": "Verde brillante"
+        "tonalidad": "Verde Brillante"
     },
     "00BFFF": {
         "cor": "Azul Céu Profundo",
@@ -560,15 +560,6 @@
     "00CED1": {
         "cor": "Turquesa Escura",
         "color": "Dark Turquoise",
-        "couleur": "",
-        "farbe": "",
-        "colore": "",
-        "kleur": "",
-        "tonalidad": ""
-    },
-    "00F": {
-        "cor": "",
-        "color": "Blue",
         "couleur": "",
         "farbe": "",
         "colore": "",
@@ -639,16 +630,16 @@
         "tonalidad": ""
     },
     "015D52": {
-        "cor": "",
-        "color": "Opal green",
-        "couleur": "Vert opale",
+        "cor": "Verde Opala",
+        "color": "Opal Green",
+        "couleur": "Vert Opale",
         "farbe": "Opalgrün",
-        "colore": "Verde opale",
+        "colore": "Verde Opale",
         "kleur": "Opaalgroen",
-        "tonalidad": "Verde opalo"
+        "tonalidad": "Verde Opalo"
     },
     "01796F": {
-        "cor": "",
+        "cor": "Verde Pinho",
         "color": "Pine Green",
         "couleur": "",
         "farbe": "",
@@ -666,7 +657,7 @@
         "tonalidad": ""
     },
     "025669": {
-        "cor": "",
+        "cor": "Azul-Ciano",
         "color": "Azure blue",
         "couleur": "Bleu azur",
         "farbe": "Azurblau",
@@ -675,7 +666,7 @@
         "tonalidad": "Azul azur"
     },
     "035096": {
-        "cor": "",
+        "cor": "Azul Elétrico Médio",
         "color": "Medium Electric Blue",
         "couleur": "",
         "farbe": "",
@@ -684,7 +675,7 @@
         "tonalidad": ""
     },
     "036": {
-        "cor": "",
+        "cor": "Azul Meia-Noite",
         "color": "Dark Midnight Blue",
         "couleur": "",
         "farbe": "",
@@ -756,13 +747,13 @@
         "tonalidad": ""
     },
     "063971": {
-        "cor": "",
-        "color": "Traffic blue",
-        "couleur": "Bleu signalisation",
+        "cor": "Azul Tráfego",
+        "color": "Traffic Blue",
+        "couleur": "Bleu Signalisation",
         "farbe": "Verkehrsblau",
-        "colore": "Blu traffico",
+        "colore": "Blu Traffico",
         "kleur": "Verkeersblauw",
-        "tonalidad": "Azul tráfico"
+        "tonalidad": "Azul Tráfico"
     },
     "08457E": {
         "cor": "",
@@ -10647,13 +10638,13 @@
         "tonalidad": ""
     },
     "F8F32B": {
-        "cor": "",
-        "color": "Zinc yellow",
-        "couleur": "Jaune zinc",
+        "cor": "Zinco Amarelo",
+        "color": "Zinc Yellow",
+        "couleur": "Jaune Zinc",
         "farbe": "Zinkgelb",
-        "colore": "Giallo zinco",
+        "colore": "Giallo Zinco",
         "kleur": "Zinkgeel",
-        "tonalidad": "Amarillo de zinc"
+        "tonalidad": "Amarillo de Zinc"
     },
     "F8F4FF": {
         "cor": "",
@@ -10782,8 +10773,8 @@
         "tonalidad": ""
     },
     "FAAFBE": {
-        "cor": "",
-        "color": "Pink",
+        "cor": "Falso-Rosa Claro",
+        "color": "Faux-Light Pink",
         "couleur": "",
         "farbe": "",
         "colore": "",
@@ -11656,7 +11647,7 @@
     },
     "FF8247": {
         "cor": "Siena",
-        "color": "",
+        "color": "Light Orange",
         "couleur": "",
         "farbe": "",
         "colore": "",
@@ -11691,7 +11682,7 @@
         "tonalidad": ""
     },
     "FF91A4": {
-        "cor": "",
+        "cor": "Rosa Salmão",
         "color": "Salmon Pink",
         "couleur": "",
         "farbe": "",
@@ -11700,7 +11691,7 @@
         "tonalidad": ""
     },
     "FF9F00": {
-        "cor": "",
+        "cor": "Casca de Laranja",
         "color": "Orange Peel",
         "couleur": "",
         "farbe": "",
@@ -11754,7 +11745,7 @@
         "tonalidad": ""
     },
     "FFA62F": {
-        "cor": "",
+        "cor": "Cantalupo",
         "color": "Cantaloupe",
         "couleur": "",
         "farbe": "",
@@ -11790,7 +11781,7 @@
         "tonalidad": ""
     },
     "FFAE42": {
-        "cor": "",
+        "cor": "Amarelo Alaranjado",
         "color": "Yellow Orange",
         "couleur": "",
         "farbe": "",
@@ -11844,7 +11835,7 @@
         "tonalidad": ""
     },
     "FFBCD9": {
-        "cor": "",
+        "cor": "Algodão Doce",
         "color": "Cotton Candy",
         "couleur": "",
         "farbe": "",
@@ -11889,7 +11880,7 @@
         "tonalidad": ""
     },
     "FFC87C": {
-        "cor": "",
+        "cor": "Topázio",
         "color": "Topaz",
         "couleur": "",
         "farbe": "",
@@ -12086,15 +12077,6 @@
         "kleur": "",
         "tonalidad": ""
     },
-    "FFF": {
-        "cor": "",
-        "color": "White",
-        "couleur": "",
-        "farbe": "",
-        "colore": "",
-        "kleur": "",
-        "tonalidad": ""
-    },
     "FFF0F5": {
         "cor": "Lavanda Avermelhada",
         "color": "Lavender Blush",
@@ -12132,7 +12114,7 @@
         "tonalidad": ""
     },
     "FFF700": {
-        "cor": "",
+        "cor": "Limão",
         "color": "Lemon",
         "couleur": "",
         "farbe": "",
@@ -12159,7 +12141,7 @@
         "tonalidad": ""
     },
     "FFF8E7": {
-        "cor": "",
+        "cor": "Café com Leite Cósmico",
         "color": "Cosmic Latte",
         "couleur": "",
         "farbe": "",
@@ -12213,7 +12195,7 @@
         "tonalidad": "Amarillo brillante"
     },
     "FFFF31": {
-        "cor": "",
+        "cor": "Narciso",
         "color": "Daffodil",
         "couleur": "",
         "farbe": "",
@@ -12222,7 +12204,7 @@
         "tonalidad": ""
     },
     "FFFFC2": {
-        "cor": "",
+        "cor": "Pergaminho",
         "color": "Parchment",
         "couleur": "",
         "farbe": "",
@@ -12231,7 +12213,7 @@
         "tonalidad": ""
     },
     "FFFFCC": {
-        "cor": "",
+        "cor": "Creme",
         "color": "Cream",
         "couleur": "",
         "farbe": "",
