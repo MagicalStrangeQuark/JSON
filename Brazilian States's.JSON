@@ -1,164 +1,164 @@
 [
     {
-        "Name": "Acre",
-        "Abbreviation": "AC",
-        "Capital": "Rio Branco",
+        "name": "Acre",
+        "abbreviation": "AC",
+        "capital": "Rio Branco",
         "cUF": 12
     },
     {
-        "Name": "Alagoas",
-        "Abbreviation": "AL",
-        "Capital": "Maceió",
+        "name": "Alagoas",
+        "abbreviation": "AL",
+        "capital": "Maceió",
         "cUF": 27
     },
     {
-        "Name": "Amapá",
-        "Abbreviation": "AP",
-        "Capital": "Macapá",
+        "name": "Amapá",
+        "abbreviation": "AP",
+        "capital": "Macapá",
         "cUF": 16
     },
     {
-        "Name": "Amazonas",
-        "Abbreviation": "AM",
-        "Capital": "Manaus",
+        "name": "Amazonas",
+        "abbreviation": "AM",
+        "capital": "Manaus",
         "cUF": 13
     },
     {
-        "Name": "Bahia",
-        "Abbreviation": "BA",
-        "Capital": "Salvador",
+        "name": "Bahia",
+        "abbreviation": "BA",
+        "capital": "Salvador",
         "cUF": 29
     },
     {
-        "Name": "Ceará",
-        "Abbreviation": "CE",
-        "Capital": "Fortaleza",
+        "name": "Ceará",
+        "abbreviation": "CE",
+        "capital": "Fortaleza",
         "cUF": 23
     },
     {
-        "Name": "Distrito Federal",
-        "Abbreviation": "DF",
-        "Capital": "Brasília",
+        "name": "Distrito Federal",
+        "abbreviation": "DF",
+        "capital": "Brasília",
         "cUF": 53
     },
     {
-        "Name": "Espirito Santo",
-        "Abbreviation": "ES",
-        "Capital": "Vitória",
+        "name": "Espirito Santo",
+        "abbreviation": "ES",
+        "capital": "Vitória",
         "cUF": 32
     },
     {
-        "Name": "Goiás",
-        "Abbreviation": "GO",
-        "Capital": "Goiânia",
+        "name": "Goiás",
+        "abbreviation": "GO",
+        "capital": "Goiânia",
         "cUF": 52
     },
     {
-        "Name": "Maranhão",
-        "Abbreviation": "MA",
-        "Capital": "São Luís",
+        "name": "Maranhão",
+        "abbreviation": "MA",
+        "capital": "São Luís",
         "cUF": 21
     },
     {
-        "Name": "Mato Grosso",
-        "Abbreviation": "MT",
-        "Capital": "Cuiabá",
+        "name": "Mato Grosso",
+        "abbreviation": "MT",
+        "capital": "Cuiabá",
         "cUF": 51
     },
     {
-        "Name": "Mato Grosso do Sul",
-        "Abbreviation": "MS",
-        "Capital": "Campo Grande",
+        "name": "Mato Grosso do Sul",
+        "abbreviation": "MS",
+        "capital": "Campo Grande",
         "cUF": 50
     },
     {
-        "Name": "Minas Gerais",
-        "Abbreviation": "MG",
-        "Capital": "Belo  Horizonte",
+        "name": "Minas Gerais",
+        "abbreviation": "MG",
+        "capital": "Belo  Horizonte",
         "cUF": 31
     },
     {
-        "Name": "Pará",
-        "Abbreviation": "PA",
-        "Capital": "Belém",
+        "name": "Pará",
+        "abbreviation": "PA",
+        "capital": "Belém",
         "cUF": 15
     },
     {
-        "Name": "Paraíba",
-        "Abbreviation": "PB",
-        "Capital": "João Pessoa",
+        "name": "Paraíba",
+        "abbreviation": "PB",
+        "capital": "João Pessoa",
         "cUF": 25
     },
     {
-        "Name": "Paraná",
-        "Abbreviation": "PR",
-        "Capital": "Curitiba",
+        "name": "Paraná",
+        "abbreviation": "PR",
+        "capital": "Curitiba",
         "cUF": 41
     },
     {
-        "Name": "Pernambuco",
-        "Abbreviation": "PE",
-        "Capital": "Recife",
+        "name": "Pernambuco",
+        "abbreviation": "PE",
+        "capital": "Recife",
         "cUF": 26
     },
     {
-        "Name": "Piauí",
-        "Abbreviation": "PI",
-        "Capital": "Teresina",
+        "name": "Piauí",
+        "abbreviation": "PI",
+        "capital": "Teresina",
         "cUF": 22
     },
     {
-        "Name": "Rio de Janeiro",
-        "Abbreviation": "RJ",
-        "Capital": "Rio de Janeiro",
+        "name": "Rio de Janeiro",
+        "abbreviation": "RJ",
+        "capital": "Rio de Janeiro",
         "cUF": 33
     },
     {
-        "Name": "Rio Grande do Norte",
-        "Abbreviation": "RN",
-        "Capital": "Natal",
+        "name": "Rio Grande do Norte",
+        "abbreviation": "RN",
+        "capital": "Natal",
         "cUF": 24
     },
     {
-        "Name": "Rio Grande do Sul",
-        "Abbreviation": "RS",
-        "Capital": "Porto Alegre",
+        "name": "Rio Grande do Sul",
+        "abbreviation": "RS",
+        "capital": "Porto Alegre",
         "cUF": 43
     },
     {
-        "Name": "Rondônia",
-        "Abbreviation": "RO",
-        "Capital": "Porto Velho",
+        "name": "Rondônia",
+        "abbreviation": "RO",
+        "capital": "Porto Velho",
         "cUF": 11
     },
     {
-        "Name": "Roraima",
-        "Abbreviation": "RR",
-        "Capital": "Boa Vista",
+        "name": "Roraima",
+        "abbreviation": "RR",
+        "capital": "Boa Vista",
         "cUF": 14
     },
     {
-        "Name": "Santa Catarina",
-        "Abbreviation": "SC",
-        "Capital": "Florianópolis",
+        "name": "Santa Catarina",
+        "abbreviation": "SC",
+        "capital": "Florianópolis",
         "cUF": 42
     },
     {
-        "Name": "São Paulo",
-        "Abbreviation": "SP",
-        "Capital": "São Paulo",
+        "name": "São Paulo",
+        "abbreviation": "SP",
+        "capital": "São Paulo",
         "cUF": 35
     },
     {
-        "Name": "Sergipe",
-        "Abbreviation": "SE",
-        "Capital": "Aracaju",
+        "name": "Sergipe",
+        "abbreviation": "SE",
+        "capital": "Aracaju",
         "cUF": 28
     },
     {
-        "Name": "Tocantins",
-        "Abbreviation": "TO",
-        "Capital": "Palmas",
+        "name": "Tocantins",
+        "abbreviation": "TO",
+        "capital": "Palmas",
         "cUF": 17
     }
 ]
