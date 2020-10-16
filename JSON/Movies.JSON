@@ -270,7 +270,11 @@
         "year": 2004
     },
     {
-        "name": "Hotaru no Haka"
+        "name": "Hotaru no Haka",
+        "director": [
+            "Isao Takahata"
+        ],
+        "year": 1989
     },
     {
         "name": "How to Train Your Dragon",
