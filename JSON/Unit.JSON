@@ -1,0 +1,406 @@
+[
+    {
+        "unit": "2C",
+        "initials": "2C"
+    },
+    {
+        "unit": "4C",
+        "initials": "4C"
+    },
+    {
+        "unit": "AMPOLA",
+        "initials": "AMPOLA"
+    },
+    {
+        "unit": "BIS",
+        "initials": "BI"
+    },
+    {
+        "unit": "BLOCO",
+        "initials": "BLOCO"
+    },
+    {
+        "unit": "BOBINA",
+        "initials": "BOBINA"
+    },
+    {
+        "unit": "BOMBONA",
+        "initials": "BOMB"
+    },
+    {
+        "unit": "Balde",
+        "initials": "BAL"
+    },
+    {
+        "unit": "Bandeja",
+        "initials": "BANDEJ"
+    },
+    {
+        "unit": "Barra",
+        "initials": "BARRA"
+    },
+    {
+        "unit": "Barril",
+        "initials": "BA"
+    },
+    {
+        "unit": "Bisnaga",
+        "initials": "BISNAG"
+    },
+    {
+        "unit": "C",
+        "initials": "C"
+    },
+    {
+        "unit": "CAPSULA",
+        "initials": "CAPS"
+    },
+    {
+        "unit": "CARTELA",
+        "initials": "CART"
+    },
+    {
+        "unit": "CE",
+        "initials": "CE"
+    },
+    {
+        "unit": "CT",
+        "initials": "CT"
+    },
+    {
+        "unit": "CX 10 UN",
+        "initials": "CX10"
+    },
+    {
+        "unit": "CX 100 UN",
+        "initials": "CX100"
+    },
+    {
+        "unit": "CX 12 UN",
+        "initials": "CX12"
+    },
+    {
+        "unit": "CX 15 UN",
+        "initials": "CX15"
+    },
+    {
+        "unit": "CX 2 UN",
+        "initials": "CX2"
+    },
+    {
+        "unit": "CX 20 UN",
+        "initials": "CX20"
+    },
+    {
+        "unit": "CX 24 UN",
+        "initials": "CX24"
+    },
+    {
+        "unit": "CX 25 UN",
+        "initials": "CX25"
+    },
+    {
+        "unit": "CX 3 UN",
+        "initials": "CX3"
+    },
+    {
+        "unit": "CX 5 UN",
+        "initials": "CX5"
+    },
+    {
+        "unit": "CX 50 UN",
+        "initials": "CX50"
+    },
+    {
+        "unit": "Caixa",
+        "initials": "CX/BOX"
+    },
+    {
+        "unit": "Cento",
+        "initials": "CENTO"
+    },
+    {
+        "unit": "Centímetro",
+        "initials": "CM"
+    },
+    {
+        "unit": "Centímetro Cúbico",
+        "initials": "CM3"
+    },
+    {
+        "unit": "Centímetro Quadrado",
+        "initials": "CM2"
+    },
+    {
+        "unit": "Cilindro",
+        "initials": "CY"
+    },
+    {
+        "unit": "Conjunto",
+        "initials": "CJ/SET"
+    },
+    {
+        "unit": "Container",
+        "initials": "CON"
+    },
+    {
+        "unit": "Display",
+        "initials": "DISP"
+    },
+    {
+        "unit": "Dúzia",
+        "initials": "DOZ"
+    },
+    {
+        "unit": "EA",
+        "initials": "EA"
+    },
+    {
+        "unit": "EMBALAGEM",
+        "initials": "EMBAL"
+    },
+    {
+        "unit": "Engradado",
+        "initials": "CR"
+    },
+    {
+        "unit": "Envelope",
+        "initials": "EN"
+    },
+    {
+        "unit": "Estojo",
+        "initials": "CS"
+    },
+    {
+        "unit": "FOLHA",
+        "initials": "FOLHA"
+    },
+    {
+        "unit": "FRA",
+        "initials": "FR"
+    },
+    {
+        "unit": "FRASCO",
+        "initials": "FRASCO"
+    },
+    {
+        "unit": "FX",
+        "initials": "FX"
+    },
+    {
+        "unit": "Fardo",
+        "initials": "BE"
+    },
+    {
+        "unit": "Feixe",
+        "initials": "BH"
+    },
+    {
+        "unit": "Gramas",
+        "initials": "GRAMAS"
+    },
+    {
+        "unit": "Galão",
+        "initials": "GL"
+    },
+    {
+        "unit": "Garrafa",
+        "initials": "GF"
+    },
+    {
+        "unit": "Jarda",
+        "initials": "YD"
+    },
+    {
+        "unit": "Jarda Quadrada",
+        "initials": "SYD"
+    },
+    {
+        "unit": "Jogo",
+        "initials": "JG"
+    },
+    {
+        "unit": "KT",
+        "initials": "KT"
+    },
+    {
+        "unit": "Kit",
+        "initials": "KIT"
+    },
+    {
+        "unit": "Litro",
+        "initials": "L"
+    },
+    {
+        "unit": "LAT",
+        "initials": "LA"
+    },
+    {
+        "unit": "LI",
+        "initials": "LI"
+    },
+    {
+        "unit": "Lata",
+        "initials": "CI"
+    },
+    {
+        "unit": "Libra",
+        "initials": "LB"
+    },
+    {
+        "unit": "Litro",
+        "initials": "LT"
+    },
+    {
+        "unit": "Litros de Prova",
+        "initials": "PF"
+    },
+    {
+        "unit": "MEGAWATT HORA",
+        "initials": "MWH"
+    },
+    {
+        "unit": "METRO CÚBICO",
+        "initials": "M3"
+    },
+    {
+        "unit": "MIL",
+        "initials": "MI"
+    },
+    {
+        "unit": "MILILITRO",
+        "initials": "ML"
+    },
+    {
+        "unit": "MT",
+        "initials": "MT"
+    },
+    {
+        "unit": "Maço",
+        "initials": "PA"
+    },
+    {
+        "unit": "Meter",
+        "initials": "M"
+    },
+    {
+        "unit": "Milheiro",
+        "initials": "MIL"
+    },
+    {
+        "unit": "NU",
+        "initials": "NU"
+    },
+    {
+        "unit": "P",
+        "initials": "P"
+    },
+    {
+        "unit": "P%",
+        "initials": "P%"
+    },
+    {
+        "unit": "PALETE",
+        "initials": "PALETE"
+    },
+    {
+        "unit": "POTE",
+        "initials": "POTE"
+    },
+    {
+        "unit": "PR",
+        "initials": "PR"
+    },
+    {
+        "unit": "PT",
+        "initials": "PT"
+    },
+    {
+        "unit": "Pacote",
+        "initials": "PCT"
+    },
+    {
+        "unit": "Paleta",
+        "initials": "PAL"
+    },
+    {
+        "unit": "Par",
+        "initials": "PAR"
+    },
+    {
+        "unit": "Pares",
+        "initials": "PRS"
+    },
+    {
+        "unit": "Peça",
+        "initials": "PC"
+    },
+    {
+        "unit": "Peças",
+        "initials": "PCS"
+    },
+    {
+        "unit": "Pé",
+        "initials": "FT"
+    },
+    {
+        "unit": "QUILATE",
+        "initials": "K"
+    },
+    {
+        "unit": "Quilograma",
+        "initials": "KG"
+    },
+    {
+        "unit": "RESMA",
+        "initials": "RESMA"
+    },
+    {
+        "unit": "Rolo",
+        "initials": "ROL"
+    },
+    {
+        "unit": "SACOLA",
+        "initials": "SACOLA"
+    },
+    {
+        "unit": "Saco",
+        "initials": "BG"
+    },
+    {
+        "unit": "Square Meter",
+        "initials": "SME"
+    },
+    {
+        "unit": "TAMBOR",
+        "initials": "TAMBOR"
+    },
+    {
+        "unit": "TANQUE",
+        "initials": "TANQUE"
+    },
+    {
+        "unit": "Tonel",
+        "initials": "BU"
+    },
+    {
+        "unit": "Tonelada",
+        "initials": "TON"
+    },
+    {
+        "unit": "Tubo",
+        "initials": "TUB"
+    },
+    {
+        "unit": "Unidade",
+        "initials": "UNI"
+    },
+    {
+        "unit": "VASILHAME",
+        "initials": "VASIL"
+    },
+    {
+        "unit": "VIDRO",
+        "initials": "VIDRO"
+    }
+]
